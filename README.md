@@ -1,7 +1,7 @@
 
 # QSS_golf
 
-Welcome to QSS_golf, a platform where golf aspirants meet professioanl coaches
+Welcome to QSS_golf, a platform where golf aspirants meet professional coaches
 
 
 ## Features
