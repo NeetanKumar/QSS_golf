@@ -25,7 +25,7 @@ Now navigate to main directory and run following command to install dependencies
   npm init -y 
 ```
 ```bash
-  npm install express mongoose bcryptjs jsonwebtoken dotenv
+  npm install
 ```
 ```bash
   npm install --save-dev nodemon
